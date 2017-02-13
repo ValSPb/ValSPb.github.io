@@ -1,0 +1,10 @@
+body { background:#ffffff; }
+.header { background:#cdcdcd; }
+.content { background:#eeeeee; }
+.nav_block ul { background:#cccccc; }
+.nav_block ul li a { color:#26234d; }
+.nav_block ul li a { border-color:#444444; }
+.nav_block ul li.active a { color:white; background:#777777; }
+.nav_block ul li a:hover { color:#ffffff; background:#000000; }
+.content_block { background:#cccccc; }
+h1, h2, h3, h4, h5, h6 { color:#202060; }
